@@ -4,6 +4,9 @@ app_publisher = "lmc"
 app_description = "Ocr App"
 app_email = "sanketshelar2002@gmail.com"
 app_license = "mit"
+doctype_js = {
+    "Purchase Receipt": "public/js/purchase_receipt.js"
+}
 # required_apps = []
 
 # Includes in <head>
