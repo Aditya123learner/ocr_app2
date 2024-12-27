@@ -8,9 +8,9 @@ requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
 dependencies = [
-    # "frappe~=15.0.0",# Installed and managed by bench.
+    "frappe~=15.0.0",
     "pytesseract~=0.3.10",
-    "Pillow~=9.0.1",
+    "Pillow~=10.3.0",
     "opencv-python-headless~=4.5.5"
 ]
 
