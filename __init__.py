@@ -1,1 +1,0 @@
-from .ocr_app import *
